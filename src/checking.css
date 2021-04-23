@@ -1,0 +1,13 @@
+.tasklist-elem:hover{
+    background-color: darkgray;
+}
+.tochangedisp{
+    background-color: beige;
+}
+
+
+
+.list-group-item:first-child {
+    margin-top: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;}
